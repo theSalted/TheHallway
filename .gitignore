@@ -102,4 +102,10 @@ Temporary Items
 /.plastic
 /.vsconfig
 
-/Assets/Externals
+/Assets/Externals/Morgue*Room*PBR/
+/Assets/Externals/ScifiOfficeLite/
+/Assets/Externals/Furniture/
+/Assets/Externals/Dnk_Dev/
+/Assets/Externals/Abandoned_Asylum/
+
+
